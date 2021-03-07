@@ -15,7 +15,16 @@ The client W. Avery has asked for information regarding weather trends in Oahu, 
 
 ## Summary: 
 
-The analysis concludes that the temperatures of Oahu are ideal to open up a surf and ice cream shop and to operate year round. The temperature of the opposite winter and summer months are determined to be negligible by sharing simliar average, max, min, and standard deviation indexes. 
+The analysis concludes that the temperatures of Oahu are ideal to open up a surf and ice cream shop and to operate year round. The temperature differences of the opposite winter and summer months are determined to be negligible by sharing simliar average, max, min, and standard deviation indexes. 
+
+Additionally, the analysis shows that rain will hardly be an issue in Oahu:
+
+![June Precipitation Summary](Resources/JunePrcp.PNG)
+![December Precipitation Summary](Resources/DecemberPrcp.PNG)
+
+The precipitation summaries for each month are quite similiar. An important factor to note is that the average upper quartile for the months of June and December is 0.135. This suggests rain is very infrequent in Oahu. Just like the lowest recorded temperature in December, further analysis could prove that rare precipitation comes at off hours of the business. 
+
+
 
 
 
