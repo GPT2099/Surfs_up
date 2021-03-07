@@ -6,3 +6,6 @@ The client W. Avery has asked for information regarding weather trends in Oahu, 
 
 ## Results
 
+![June Temperature Summary](Resources/JuneTemps.png)
+![December Temperature Summary](Resources/DecemberTemps.png)
+
